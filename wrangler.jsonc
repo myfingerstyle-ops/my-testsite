@@ -1,0 +1,5 @@
+{
+  "name": "my-testsite",
+  "compatibility_date": "2026-10-09",
+  "assets": { "directory": "./out" }
+}
